@@ -5,7 +5,7 @@
 ### Data Source: ODBC & Amazon Athena 
 
 ## Problem Statement
-
+The video game industry generates large volumes of sales data across platforms, genres, publishers, and regions. Analyzing this data efficiently at scale poses challenges for traditional on-premise tools. The goal of this project is to leverage AWS infrastructure — specifically S3 for storage and Athena for querying — to perform structured analysis on historical video game sales and extract meaningful insights about top-performing titles, platforms, and publishers in the North American market.
 
 
 ### Steps followed 
