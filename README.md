@@ -23,11 +23,12 @@ The video game industry generates large volumes of sales data across platforms, 
 
 - Step 3: Set up an IAM user account to enable secure access control and resource management.
 
-  
+<img width="898" height="503" alt="Image" src="https://github.com/user-attachments/assets/17ef9a5c-a64b-4a05-8d0f-de652b80d4f6" />
+
+
+<img width="698" height="255" alt="Image" src="https://github.com/user-attachments/assets/ff7db5d2-d603-4deb-baf6-3d8701e112b5" />
 
 - Step 4: Successfully downloaded and installed the Simba connector to enable connectivity with Amazon Athena.
-
-  
 
 - Step 5: Imported data into Power BI Desktop using the Amazon Athena connector.
 
