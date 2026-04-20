@@ -21,4 +21,14 @@ The video game industry generates large volumes of sales data across platforms, 
 <img width="959" height="478" alt="Image" src="https://github.com/user-attachments/assets/2337ed09-c7d1-4a73-98b5-412d3569fca0" />
 
 
-- Step 3:
+- Step 3: Set up an IAM user account to enable secure access control and resource management.
+
+  
+
+- Step 4: Successfully downloaded and installed the Simba connector to enable connectivity with Amazon Athena.
+
+  
+
+- Step 5: Imported data into Power BI Desktop using the Amazon Athena connector.
+
+- Step 6: Performed data transformation using Power Query. Observed that the initial rows contained several null values, which affected data alignment. Applied a filter on the ‘Rank’ column to remove null entries, ensuring the dataset starts accurately from Rank 1 for further analysis.
