@@ -80,7 +80,7 @@ The video game industry generates large volumes of sales data across platforms, 
 - Step 20: The Year Error Fixed table was combined with the Video Game table using the Append function. Before appending, the data types and column names in the Year Error Fixed table were reviewed to ensure consistency.
 
 - Step 21: In the final table, the null values in the North America Sales column were replaced with 0.
-- 
+  
 
 <img width="995" height="426" alt="Image" src="https://github.com/user-attachments/assets/758fd9d5-a8e4-4229-bff2-df6667b676ad" />
 
