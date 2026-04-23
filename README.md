@@ -49,7 +49,16 @@ The video game industry generates large volumes of sales data across platforms, 
 
 - Step 13: By applying the Keep Rows function and leveraging column profiling, I segregated error rows and found exactly 378 errors in the Year column.
 
+<img width="868" height="626" alt="Image" src="https://github.com/user-attachments/assets/2fe87a02-e9c2-4f7d-a120-af14ef337587" />
+
+
+
 - Step 14:To investigate the source of the problem, I opened the original Excel file and copied the Rank IDs of the error rows, identified via the unique Rank column, into a separate worksheet for further analysis.
+
+
+<img width="240" height="379" alt="Image" src="https://github.com/user-attachments/assets/b0062ca2-1f8f-4666-8606-cc1804bf97d7" />
+
+
 
 - Step 15: To identify and verify the errors, I applied the VLOOKUP function, as illustrated below.
 
@@ -71,6 +80,17 @@ The video game industry generates large volumes of sales data across platforms, 
 - Step 20: The Year Error Fixed table was combined with the Video Game table using the Append function. Before appending, the data types and column names in the Year Error Fixed table were reviewed to ensure consistency.
 
 - Step 21: In the final table, the null values in the North America Sales column were replaced with 0.
+- 
+
+<img width="995" height="426" alt="Image" src="https://github.com/user-attachments/assets/758fd9d5-a8e4-4229-bff2-df6667b676ad" />
+
 
 - Step 22: In the Sales columns, all decimal values were converted into millions by multiplying them by 1,000,000.
+
+
+<img width="396" height="312" alt="Image" src="https://github.com/user-attachments/assets/f7bc7a66-23ae-4c24-8870-33108fdba0d7" />
+
+<img width="698" height="220" alt="Image" src="https://github.com/user-attachments/assets/593df5b2-ec65-40b8-86db-1411054ef827" />
+
+
 
