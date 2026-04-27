@@ -93,4 +93,17 @@ The video game industry generates large volumes of sales data across platforms, 
 <img width="698" height="220" alt="Image" src="https://github.com/user-attachments/assets/593df5b2-ec65-40b8-86db-1411054ef827" />
 
 
+- Step 23: Created the first report view page and imported a radar chart visual using a Power BI Service account to access additional custom visuals.
+
+- Step 24: Configured a radar chart by assigning the Genre column to the Category field and mapping North America sales to the Y-axis in the visualization pane.
+
+- Step 25: Built and overlaid radar chart visuals for Europe, Japan, Other, and Global regions to support multi-region comparison within a single view.
+
+- Step 26:Implemented bookmarks for multiple regional views and leveraged the Selection Pane to control visual visibility, enabling seamless interactive navigation across regions.
+
+- Step 27: Configured Bookmark Navigator buttons to provide interactive and efficient navigation between multiple visual states within the report.
+
+ # Report Snapshot (Power BI DESKTOP)
+
+ 
 
