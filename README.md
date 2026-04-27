@@ -105,5 +105,9 @@ The video game industry generates large volumes of sales data across platforms, 
 
  # Report Snapshot (Power BI DESKTOP)
 
- 
+ <img width="924" height="486" alt="Image" src="https://github.com/user-attachments/assets/c3df245d-0121-4aa6-9848-046c5045b41d" />
+<img width="920" height="482" alt="Image" src="https://github.com/user-attachments/assets/8eb75adc-7dd6-44cb-84c3-861bfff9174f" />
+<img width="916" height="491" alt="Image" src="https://github.com/user-attachments/assets/037a1a2e-8fbc-432b-87f2-48f74dd5b71b" />
+<img width="923" height="499" alt="Image" src="https://github.com/user-attachments/assets/835e1809-6e8f-47e5-9811-02702201a878" />
+<img width="896" height="491" alt="Image" src="https://github.com/user-attachments/assets/e752f131-6d58-407d-8af4-0c7b6d44f1fc" />
 
