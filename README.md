@@ -126,3 +126,5 @@ The video game industry generates large volumes of sales data across platforms, 
 
 - Step 32: The second report view demonstrates that the desired output was successfully replicated using slicer-based interactions.
 
+<img width="915" height="482" alt="Image" src="https://github.com/user-attachments/assets/03b6191e-2a20-4252-bdc8-ade1c510330a" />
+
