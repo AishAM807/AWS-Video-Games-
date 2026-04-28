@@ -118,3 +118,6 @@ The video game industry generates large volumes of sales data across platforms, 
 
 - Step 30: Selected all five regional columns and applied the Unpivot function in Power Query, resulting in two columns: Attribute and Sales Value.
 
+<img width="831" height="526" alt="Image" src="https://github.com/user-attachments/assets/94139355-8183-4d6a-a0ff-b00740c63d6e" />
+
+<img width="743" height="524" alt="Image" src="https://github.com/user-attachments/assets/78dc3e6c-72ad-404a-89c3-e687517d8a0e" />
