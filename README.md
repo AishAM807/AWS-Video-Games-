@@ -128,3 +128,10 @@ The video game industry generates large volumes of sales data across platforms, 
 
 <img width="915" height="482" alt="Image" src="https://github.com/user-attachments/assets/03b6191e-2a20-4252-bdc8-ade1c510330a" />
 
+- Step 33: Developed a third report page featuring a matrix visual to analyze and present sales performance by genre and year across all regions.
+
+- Step 34: Added page navigator buttons on Report Pages 1 and 2 to enable easy navigation to the matrix visual on Page 3.
+
+- Step 35: Implemented a back-navigation button on Page 3 to enable seamless return to the radar chart view.
+
+
