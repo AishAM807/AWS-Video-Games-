@@ -121,3 +121,8 @@ The video game industry generates large volumes of sales data across platforms, 
 <img width="831" height="526" alt="Image" src="https://github.com/user-attachments/assets/94139355-8183-4d6a-a0ff-b00740c63d6e" />
 
 <img width="743" height="524" alt="Image" src="https://github.com/user-attachments/assets/78dc3e6c-72ad-404a-89c3-e687517d8a0e" />
+
+- Step 31: Designed a secondary report page (‘Approach 2’) with a consistent canvas theme and implemented a radar chart to analyze genre-based sales performance.
+
+- Step 32: The second report view demonstrates that the desired output was successfully replicated using slicer-based interactions.
+
