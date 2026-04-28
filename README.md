@@ -111,3 +111,10 @@ The video game industry generates large volumes of sales data across platforms, 
 <img width="923" height="499" alt="Image" src="https://github.com/user-attachments/assets/835e1809-6e8f-47e5-9811-02702201a878" />
 <img width="896" height="491" alt="Image" src="https://github.com/user-attachments/assets/e752f131-6d58-407d-8af4-0c7b6d44f1fc" />
 
+
+- Step 28: Developed a radar chart using slicers as an alternative approach to analyze and compare sales values across different regions, including North America, Japan, Europe, Other Regions, and Global.
+
+- Step 29: As part of the second approach, duplicated the original dataset in Power Query to support alternative analysis and visualization.
+
+- Step 30: Selected all five regional columns and applied the Unpivot function in Power Query, resulting in two columns: Attribute and Sales Value.
+
