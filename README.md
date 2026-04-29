@@ -155,7 +155,9 @@ The video game industry generates large volumes of sales data across platforms, 
 
 A four-page report was created on Power BI Desktop & it was then published to Power BI Service.
 
-Following inferences can be drawn from the dashboard;
+The following inferences can be drawn from the dashboard;
+
+
 📊 1. Global Sales Insights
 Top Genres (Highest Units Sold):
 - Action (~highest peak)
