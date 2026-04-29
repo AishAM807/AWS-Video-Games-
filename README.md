@@ -136,4 +136,14 @@ The video game industry generates large volumes of sales data across platforms, 
 
 - Step 35: Implemented a back-navigation button on Page 3 to enable seamless return to the radar chart view.
 
+- Step 36: Created a third report view page by customizing the canvas background and wallpaper to enhance visual appeal.
+
+- Step 37: Implemented a line chart to analyze trends in units sold across multiple years and genres, enabling clear comparison and insights.
+
+- Step 38: Applied a basic filter in the filter pane to exclude records with unavailable year values.
+
+- Step 39: Utilized small multiples to display separate line charts for each genre, and added a slicer to enable selection of a specific region at a time.
+
+- Step 40: Published the report to the Power BI Service for online access and sharing.
+
 
