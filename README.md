@@ -151,3 +151,88 @@ The video game industry generates large volumes of sales data across platforms, 
 - Step 40: Published the report to the Power BI Service for online access and sharing.
 
 
+# Insights
+
+A four-page report was created on Power BI Desktop & it was then published to Power BI Service.
+
+Following inferences can be drawn from the dashboard;
+📊 1. Global Sales Insights
+Top Genres (Highest Units Sold):
+- Action (~highest peak)
+- Sports
+- Shooter
+- Mid-performing Genres:
+- Role-Playing, Platform
+- Low-performing Genres:
+- Puzzle, Adventure, Simulation, Strategy
+
+👉 Insight:
+The global market is heavily dominated by Action and Sports, contributing the largest share of total sales.
+
+🌏 2. Japan Sales Insights
+Top Genre:
+- Role-Playing (RPG) (clearly highest)
+- Second Tier:
+- Action, Sports
+- Lowest Genres:
+- Shooter, Racing, Western-style genres
+
+👉 Insight:
+Japan has a very different preference pattern, strongly favoring RPGs, unlike global trends.
+
+🌍 3. Europe Sales Insights
+ Top Genres:
+- Action
+- Sports
+- Shooter
+- Moderate:
+- Racing, Platform
+Low:
+- Puzzle, Strategy, Adventure
+
+👉 Insight:
+Europe closely follows global trends, with Action and Sports leading.
+
+🇺🇸 4. North America Insights
+Top Genres:
+- Action (highest)
+- Shooter
+- Sports
+- Moderate:
+- Role-Playing, Racing
+Low:
+- Puzzle, Simulation, Strategy
+
+👉 Insight:
+North America shows strong preference for Action + Shooter genres, indicating a more competitive/action-heavy gaming market.
+
+📈 5. Year-wise Trends (Line Charts)
+- Sales peak between ~2005–2012
+- Sharp decline after ~2012–2015
+- Early years (1980–1995) show low but gradual growth
+
+👉 Genre-specific patterns:
+
+- Action & Sports: Strong growth → peak → decline
+- Shooter: Late growth but strong peak
+- Platform: Moderate but consistent
+
+👉 Insight:
+The gaming industry experienced a golden period around 2005–2010, followed by a decline (possibly due to digital shift, mobile gaming, etc.).
+
+🔍 6. Cross-Region Comparison
+Consistent Across Regions:
+- Action is dominant everywhere except Japan
+- Unique Market:
+- Japan → RPG-focused
+- Western Markets (NA + EU):
+- Prefer Action, Shooter, Sports
+
+🎯 Key Business Insights
+- Focus on Action & Sports games globally
+- For Japan market → prioritize RPG development
+- Decline after 2010 suggests:
+- Shift toward digital/mobile gaming
+- Need for new monetization strategies
+
+
