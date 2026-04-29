@@ -144,6 +144,10 @@ The video game industry generates large volumes of sales data across platforms, 
 
 - Step 39: Utilized small multiples to display separate line charts for each genre, and added a slicer to enable selection of a specific region at a time.
 
+
+<img width="1108" height="487" alt="Image" src="https://github.com/user-attachments/assets/a7507557-6a3e-416e-85dd-8560cea5fc05" />
+
+
 - Step 40: Published the report to the Power BI Service for online access and sharing.
 
 
