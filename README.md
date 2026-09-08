@@ -1,6 +1,6 @@
 # Video Games AWS Project
 
-### Dashboard Link : 
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/e63a0023-57c0-49e3-9d44-5abc4be8563d/ReportSection2957c7c00a10ba07c46a?experience=power-bi
 
 ### Data Source: ODBC & Amazon Athena 
 
